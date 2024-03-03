@@ -20,8 +20,8 @@ Pedro Terra da Silva Motta
 
 
 ## 💻 Iniciante 
-- [Dia 1:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia1) "Working with Variables in Python to Manage Data"
-- [Dia 2:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia2) "Understanding Data Types and How to Manipulate Strings"
-- [Dia 3:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia3) "Control Flow and Logical Operators"
+- [Dia 1:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia1) "Working with Variables in Python to Manage Data"
+- [Dia 2:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia2) "Understanding Data Types and How to Manipulate Strings"
+- [Dia 3:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia3) "Control Flow and Logical Operators"
 
 
