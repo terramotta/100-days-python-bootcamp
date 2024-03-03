@@ -7,5 +7,5 @@
 - Operadores Lógicos
 
 ## Ilha do Tesouro
-![Dia1](https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif)
+![Dia3](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/04182b07-09b3-475c-91a4-459d36027f97)
 
