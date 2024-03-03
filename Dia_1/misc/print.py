@@ -2,7 +2,7 @@
 
 #     print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
 
-#     obkect(s) - any object, and as many as you like. Will be converted to string before printed
+#     object(s) - any object, and as many as you like. Will be converted to string before printed
 #     sep - separator, default is ' '
 #     end - end, default is '\n'
 #     file - a file-like object (stream); defaults to the current sys.stdout (a tela)
