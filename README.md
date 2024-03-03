@@ -1,15 +1,16 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
 </h1>
 
-
-![image](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/a86d1657-ca06-46ca-8232-4413077d4498)
-
+<p align="center">
+  <img src="https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/9a9ff310-29e7-4a29-b18a-a481110a807c">
+</p>
 
 
 Material produzido durante o curso: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
+
 <p align="center">
-Data: 02/03/2024  
+Data: Feb/2024  
 </p>
 
 <p align="center">
