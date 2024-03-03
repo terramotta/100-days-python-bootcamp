@@ -1,0 +1,12 @@
+Verificação de sintaxe: Um linter pode identificar erros de sintaxe no seu código, como falta de parênteses, erros de indentação ou uso incorreto de palavras-chave.
+
+Conformidade com PEP 8: O PEP 8 é o guia de estilo de código para Python, que estabelece convenções sobre como escrever código Python de maneira legível e consistente. Um linter pode verificar se o seu código está em conformidade com as diretrizes do PEP 8 e fornecer sugestões de como corrigir problemas de estilo.
+
+Detecção de problemas potenciais: Além de verificar a sintaxe e o estilo, um linter pode identificar padrões de código que podem indicar problemas potenciais, como variáveis indefinidas, importações não utilizadas, loops infinitos, entre outros.
+
+Integração com editores de texto: Muitos editores de texto populares, como VSCode, Sublime Text e Atom, têm extensões que integram linters diretamente no ambiente de desenvolvimento. Isso permite que os desenvolvedores recebam feedback em tempo real enquanto estão escrevendo código.
+
+Personalização: Alguns linters permitem que você configure regras específicas para atender às necessidades do seu projeto ou equipe. Você pode desativar algumas verificações, ajustar o estilo de formatação ou adicionar suas próprias regras personalizadas.
+
+
+# pylint: disable=all

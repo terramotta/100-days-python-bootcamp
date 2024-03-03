@@ -1,0 +1,11 @@
+  3           0 RESUME                   0
+
+  4           2 LOAD_FAST                0 (x)
+              4 LOAD_FAST                1 (y)
+              6 BINARY_OP                0 (+)
+             10 LOAD_FAST                2 (z)
+             12 BINARY_OP                5 (*)
+             16 STORE_FAST               3 (resultado)
+
+  5          18 LOAD_FAST                3 (resultado)
+             20 RETURN_VALUE
