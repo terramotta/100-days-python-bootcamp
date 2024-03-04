@@ -1,11 +1,11 @@
-# Dia 1 - Trabalhando com Variáveis em Python para Gerenciar Dados
+# Dia 4 - Listas e Randomização
 ## Conceitos Praticados
-- Impressão no Console em Python
-- Manipulação de Strings e Inteligência de Código
-- Depuração
-- A Função de Entrada do Python
-- Variáveis em Python
-- Nomenclatura de Variáveis
-## Band Name Generator
-![day01](https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif)
+
+
+- Módulo random
+- Offset, adição de elementos em Listas e outros métodos
+- IndexErrors e Trabalhando com listas encadeadas
+
+## Pedra, Papel, Tesoura
+![dia4](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/a35ee76e-7a34-450a-8d3b-bb4bea9e99ff)
 
