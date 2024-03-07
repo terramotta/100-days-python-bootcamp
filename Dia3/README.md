@@ -1,4 +1,4 @@
-# Dia 3 - Entendendo Tipos de Dados e Como Manipular Strings
+# Dia 3 - Control Flow e Operadores lógicos
 ## Conceitos Praticados
 - Fluxo de Controle com if / else e Operadores Condicionais
 - Operador Módulo
