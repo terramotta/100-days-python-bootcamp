@@ -1,11 +1,12 @@
-# Dia 4 - Listas e Randomização
+# Dia 6 - Funções em Python
 ## Conceitos Praticados
 
 
-- Módulo random
-- Offset, adição de elementos em Listas e outros métodos
-- IndexErrors e Trabalhando com listas encadeadas
+- Definindo e chamando funções em Python
+- Indentação
+- While Loops
 
-## Pedra, Papel, Tesoura
-![dia4](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/a35ee76e-7a34-450a-8d3b-bb4bea9e99ff)
+## Escaping the Maze
+![dia6](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/2597adbb-ff25-403d-aca8-e2a240caab6b)
+
 
