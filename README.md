@@ -25,4 +25,5 @@ Pedro Terra da Silva Motta
 - [Dia 3:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia3) "Control Flow and Logical Operators"
 - [Dia 4:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia4) "Randomisation and Python Lists"
 - [Dia 5:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia5) "Python Loops"
-- [Dia 6:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia5) "Python Functions & Karel"
+- [Dia 6:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia6) "Python Functions & Karel"
+- [Dia 7:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia7) "Hangman"
