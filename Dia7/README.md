@@ -1,11 +1,10 @@
-# Dia 4 - Listas e Randomização
+# Dia 7 - Jogo da forca
 ## Conceitos Praticados
 
 
-- Módulo random
-- Offset, adição de elementos em Listas e outros métodos
-- IndexErrors e Trabalhando com listas encadeadas
+- Como quebrar um problema complexo em um Flow Chart
+- Como adicionar ASCII Art e melhorar a interface para o usuário
 
-## Pedra, Papel, Tesoura
-![dia4](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/a35ee76e-7a34-450a-8d3b-bb4bea9e99ff)
 
+## Jogo da forca
+![dia7](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/5268522c-1b20-49f8-9de4-36205b0e34fc)
