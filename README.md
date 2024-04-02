@@ -28,3 +28,5 @@ Pedro Terra da Silva Motta
 - [Dia 6:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia6) "Python Functions & Karel"
 - [Dia 7:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia7) "Hangman"
 - [Dia 8:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia8) "Function Parameters & Caesar Cipher"
+- [Dia 9:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia9) "Dictionaries, Nesting and the Secret Auction"
+- [Dia 10:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia10) "Functions with Outputs"
