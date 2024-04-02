@@ -1,10 +1,8 @@
-# Day 10 - Funções com Output
+# Day 11 - Blackjack
 ## Conceitos Praticados
-- Funções com Output
-- Múltiplos return values
-- Docstrings
-- Print() vs. Return
-- While Loops, Flags e Recursão
-## Calculadora
-![jogopy](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/97423ac4-234d-470a-8099-554cc3781821)
+- Funções e chamada de procedimentos
+## Blackjack
+![jogopy](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/5f49373a-814c-4240-afd8-81cff5405d8b)
+
+
 
