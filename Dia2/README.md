@@ -1,11 +1,4 @@
 # Dia 2 - Entendendo DataTypes e como manipular Strings
-Python Primitive Data Types
-Type Error, Type Checking and Type Conversion
-Data Types
-Mathematical Operations in Python
-Number Manipulation and F Strings in Python
-
-
 ## Conceitos Praticados
 - Data Types primitivos do Python
 - Data Types
