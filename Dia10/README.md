@@ -1,10 +1,10 @@
-# Day 10 - Functions with Outputs
-## Concepts Practised
-- Function with Outputs
-- Multiple return values
+# Day 10 - Funções com Output
+## Conceitos Praticados
+- Funções com Output
+- Múltiplos return values
 - Docstrings
-- Combining Dictionaries and Functions
-- Print vs. Return
-- While Loops, Flags and Recursion
-## Calculator
-![day10](https://user-images.githubusercontent.com/98851253/154529776-2a53b345-94bd-4a93-b1d5-a80830531055.gif)
+- Print() vs. Return
+- While Loops, Flags e Recursão
+## Calculadora
+![jogopy](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/97423ac4-234d-470a-8099-554cc3781821)
+
