@@ -30,3 +30,4 @@ Pedro Terra da Silva Motta
 - [Dia 8:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia8) "Function Parameters & Caesar Cipher"
 - [Dia 9:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia9) "Dictionaries, Nesting and the Secret Auction"
 - [Dia 10:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia10) "Functions with Outputs"
+- [Dia 11:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/Dia11) "BlackJack"
