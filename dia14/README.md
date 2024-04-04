@@ -1,7 +1,7 @@
-# Day 14 - Higher Lower Game Project
-## Concepts Practised
-- Using Dictionary Data
-- Using Procedures
-- Using Conditional Statements
+# Day 14 - Projeto Higher Lower
+## Conceitos Praticados
+- Dicionários
+- Procedures
 ## Higher Lower Game
-![day14](https://user-images.githubusercontent.com/98851253/154571535-6d8ab0e4-7960-4d9d-942d-18284ca5e6e1.gif)
+![jogopy](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/509f4b4f-43a3-4319-960a-d707bac79074)
+
