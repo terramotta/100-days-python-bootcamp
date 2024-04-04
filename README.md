@@ -34,3 +34,6 @@ Pedro Terra da Silva Motta
 - [Dia 12:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia12) "Number Guessing Game"
 - [Dia 13:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia13) "Debugging"
 - [Dia 14:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia14) "Higher Lower Project"
+
+## 📚 Intermediário
+- [Day 15:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia15) "Local Development Environment Setup & the Coffee Machine"
