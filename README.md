@@ -32,3 +32,5 @@ Pedro Terra da Silva Motta
 - [Dia 10:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia10) "Functions with Outputs"
 - [Dia 11:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia11) "BlackJack"
 - [Dia 12:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia12) "Number Guessing Game"
+- [Dia 13:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia13) "Debugging"
+- [Dia 14:](https://github.com/terramotta/100-days-python-bootcamp/tree/main/dia14) "Higher Lower Project"
