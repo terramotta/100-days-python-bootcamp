@@ -1,7 +1,7 @@
-# Instructions
+# Instruções
 
-- Read this the code in main.py
-- Spot the problems 🐞.
-- Modify the code to fix the program.
+- Leia o código em main.py
+- Perceba os problemas 🐞.
+- Modifique o código e corrija os problemas.
 
-Fix the code so that it works and passes the tests when you submit.
+Corrija o código de maneira que ele funcione e passe nos testes.
