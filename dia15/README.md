@@ -1,5 +1,5 @@
-# Day 15 - Local Development Environment Setup & the Coffee Machine
-## Concepts Practised
-- Installing Python Locally
+# Day 15 - Coffee Machine
+## Conceitos Praticados
+- Virtual Environment
 ## Coffee Machine
-![day15](https://user-images.githubusercontent.com/98851253/154714105-6f8ffb9c-c32d-4b89-9d4f-438eba7e3c86.gif)
+![gif](https://github.com/terramotta/100-days-python-bootcamp/assets/53800269/15c7f3a6-c4e8-497e-945c-785640c1dc0a)
